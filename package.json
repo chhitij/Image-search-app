@@ -1,5 +1,5 @@
 {
-  "name": "angular-flickr-photo-search",
+  "name": "image-search-app",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
